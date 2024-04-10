@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 const fs = require('fs');
 const a = fs.readFileSync(process.argv[2], 'utf8');
